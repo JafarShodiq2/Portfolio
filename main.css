@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: #e2edff;
+}
+
+
+.container a {
+    text-decoration: none;
+    color: black;
+}
+
+.bi {
+    color: red;
+}
+
+#Project {
+    background-color: #e2edff;
+}
+
+.lead {
+    cursor: pointer;
+}
+
+footer {
+    margin-bottom: -20px;
+    background-color: #e2edff;
+}
+
+footer p a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.575);
+    text-shadow: -2px 2px 3px;
+}
+
+section {
+    padding-top: 5rem;
+}
